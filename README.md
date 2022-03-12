@@ -16,7 +16,7 @@ This is a simple page developed with NextJS and Chakra UI. For components was us
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Deployed on Vercel: [Vercel](https://order-summary-neon.vercel.app/)
 
 ### Built with
 

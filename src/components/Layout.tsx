@@ -19,6 +19,7 @@ export const Layout: FC<Props> = ({ children }) => {
         zIndex="-1000"
         bg={theme.colors.paleBlue}
         h="100vh"
+        width="100vw"
       >
         <MobileBackground />
       </Box>
@@ -28,6 +29,7 @@ export const Layout: FC<Props> = ({ children }) => {
         zIndex="-1000"
         bg={theme.colors.paleBlue}
         h="100vh"
+        width="100vw"
       >
         <DesktopBackground />
       </Box>
